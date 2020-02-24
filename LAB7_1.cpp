@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
-#include <cstring>
-#include <cstdlib>
+#include <string.h>
+#include <stdlib.h>
 #define NUM_P 6
 #define NUM_LOGI 4
 
